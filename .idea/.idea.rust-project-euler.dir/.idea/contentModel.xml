@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="\rust_expanded_macros\4k8g9gfq" t="IncludeRecursive" />
+    <e p="C:\Users\domin\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\domin\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\domin\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\domin\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\domin\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\src\build_helper" t="IncludeRecursive" />
+    <e p="C:\Users\domin\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\src\liballoc" t="IncludeRecursive" />
+    <e p="C:\Users\domin\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\src\libcore" t="IncludeRecursive" />
+    <e p="C:\Users\domin\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\src\libpanic_abort" t="IncludeRecursive" />
+    <e p="C:\Users\domin\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\src\libpanic_unwind" t="IncludeRecursive" />
+    <e p="C:\Users\domin\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\src\libproc_macro" t="IncludeRecursive" />
+    <e p="C:\Users\domin\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\src\libstd" t="IncludeRecursive" />
+    <e p="C:\Users\domin\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\src\libsyntax" t="IncludeRecursive" />
+    <e p="C:\Users\domin\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\src\libterm" t="IncludeRecursive" />
+    <e p="C:\Users\domin\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\src\libtest" t="IncludeRecursive" />
+    <e p="C:\Users\domin\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\src\libunwind" t="IncludeRecursive" />
+    <e p="D:\Projects\rust-project-euler" t="IncludeFlat" />
+  </component>
+</project>
