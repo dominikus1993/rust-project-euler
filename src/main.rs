@@ -1,5 +1,6 @@
 mod euler1;
 mod euler2;
+mod euler3;
 pub use euler1::euler1::{solve as solve_euler1};
 // fn project_euler_2() -> i32 {
 //     #![feature(iter_unfold)]

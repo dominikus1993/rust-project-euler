@@ -17,7 +17,11 @@ pub mod euler2 {
     }
 
     pub fn solve() -> i32 {
-        return produce_fib().iter().filter(|&&x| rem(x, 2) == 0).sum();
+        let fibs = produce_fib();
+        return fibs
+                .iter()
+                .filter(|&&x| rem(x, 2) == 0)
+                .sum();
     }
 }
 
